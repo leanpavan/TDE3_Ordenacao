@@ -1,7 +1,7 @@
 # Análise de Desempenho de Algoritmos de Ordenação
 TDE3 da disciplina Resolução de Problemas Estruturados em Computação, com o objetivo de comparar o desempenho dos algoritmos de ordenação (Bubble Sort Melhorado, Selection Sort, Cocktail Sort, Comb Sort, Gnome Sort e Bucket Sort) em três cenários distintos (Vetor Misto, Vetor Pré-Ordenado e Vetor Invertido), utilizando as métricas de Iterações (Comparações) e Trocas (Movimentações).
 
-## 📊 Resultados Detalhados da Comparação
+## Resultados Detalhados da Comparação
 
 Os testes foram realizados em um vetor de tamanho N=20. O arquivo README.md foi feito com apoio de IA, enquanto os algoritmos de ordenação foram feitos manualmente com os documentos disponibilizados pelo professor Andrey Cabral Meira.
 
